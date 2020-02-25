@@ -17,8 +17,8 @@
     "puppeteer": "^1.4.0",
     "@fortawesome/fontawesome-free-webfonts": "1.0.9"
   },
-  "peerDependencies": {
-    "mermaid": "8.x"
+  "devDependencies": {
+    "mermaid": "8.4.x"
   },
   "files": [
     "index.html",
